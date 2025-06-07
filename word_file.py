@@ -1,0 +1,12 @@
+words=[
+    "phone",
+    "computer",
+    "keyboard",
+    "mouse",
+    "bag",
+    "aeroplane",
+    "tablet",
+    "television",
+    "headphones",
+    "beautiful"
+    ]
